@@ -6,7 +6,7 @@
 
 
 * [Maths](Maths) ![10%](https://geps.dev/progress/10)
-    * [Linear Algebra](Maths/Linear_Algebra.ipynb) ![10%](https://geps.dev/progress/10)
+    * [Linear Algebra](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Linear_Algebra.ipynb) ![10%](https://geps.dev/progress/10)
     * [Differential Calculus](Maths/Differential_Calculus.ipynb) ![10%](https://geps.dev/progress/10)
     * [Statistics](Maths/Statistics.ipynb) ![10%](https://geps.dev/progress/10)
     * [Probability Theory](Maths/Probability_Theory.ipynb) ![10%](https://geps.dev/progress/10)
