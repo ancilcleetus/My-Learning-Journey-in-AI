@@ -6,7 +6,7 @@
 
 
 * [Maths](Maths) ![10%](https://geps.dev/progress/10)
-    * [Linear Algebra](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Linear_Algebra.ipynb) ![10%](https://geps.dev/progress/10)
+    * [Linear Algebra](Maths/Linear_Algebra.ipynb) ![30%](https://geps.dev/progress/30)
     * [Differential Calculus](Maths/Differential_Calculus.ipynb) ![10%](https://geps.dev/progress/10)
     * [Statistics](Maths/Statistics.ipynb) ![10%](https://geps.dev/progress/10)
     * [Probability Theory](Maths/Probability_Theory.ipynb) ![10%](https://geps.dev/progress/10)
@@ -15,3 +15,5 @@
     * [Matplotlib](Tools/Matplotlib.ipynb) ![10%](https://geps.dev/progress/10)
     * [Pandas](Tools/Pandas.ipynb) ![10%](https://geps.dev/progress/10)
     * [SQL](Tools/SQL.ipynb) ![10%](https://geps.dev/progress/10)
+* [Fundamentals of Machine Learning](Fundamentals-of-Machine-Learning) ![10%](https://geps.dev/progress/10)
+    * [Machine Learning Landscape](Fundamentals-of-Machine-Learning/machine_learning_landscape.ipynb) ![10%](https://geps.dev/progress/10)
