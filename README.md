@@ -13,4 +13,4 @@
     * [Pandas](Tools/Pandas.ipynb) ![10%](https://geps.dev/progress/10)
     * [SQL](Tools/SQL.ipynb) ![10%](https://geps.dev/progress/10)
 * [Fundamentals of Machine Learning](Fundamentals-of-Machine-Learning) ![10%](https://geps.dev/progress/10)
-    * [Machine Learning Landscape](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Fundamentals-of-Machine-Learning/machine_learning_landscape.ipynb) ![50%](https://geps.dev/progress/50)
+    * [Machine Learning Landscape](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Fundamentals-of-Machine-Learning/machine_learning_landscape.ipynb) ![90%](https://geps.dev/progress/90)
