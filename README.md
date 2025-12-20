@@ -14,5 +14,5 @@
     * [SQL](Tools/SQL.ipynb) ![10%](https://geps.dev/progress/10)
 * [Fundamentals of Machine Learning](Fundamentals-of-Machine-Learning) ![10%](https://geps.dev/progress/10)
     * [Machine Learning Landscape](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Fundamentals-of-Machine-Learning/machine_learning_landscape.ipynb) ![100%](https://geps.dev/progress/100)
-    * [ML Project Checklist](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Fundamentals-of-Machine-Learning/ml-project-checklist.md) ![100%](https://geps.dev/progress/100)
+    * [ML Project Checklist](Fundamentals-of-Machine-Learning/ml-project-checklist.md) ![100%](https://geps.dev/progress/100)
     * [End-to-End Machine Learning Project](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Fundamentals-of-Machine-Learning/end_to_end_ml_project.ipynb) ![10%](https://geps.dev/progress/10)
