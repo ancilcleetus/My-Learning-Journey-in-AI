@@ -17,7 +17,7 @@ Obviously, you should feel free to adapt this checklist to your needs.
 1. Define the objective in business terms.
 2. How will your solution be used?
 3. What are the current solutions/workarounds (if any)?
-4. How should you frame this problem (supervised/unsupervised, online/offline, etc.)
+4. How should you frame this problem (supervised/unsupervised, classification task/regression task, online learning/offline learning, etc.)
 5. How should performance be measured?
 6. Is the performance measure aligned with the business objective?
 7. What would be the minimum performance needed to reach the business objective?
