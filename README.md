@@ -3,10 +3,11 @@
 ## Status:
 
 * [Maths](Maths) ![10%](https://geps.dev/progress/10)
+    * [Statistics](Maths/Statistics) ![10%](https://geps.dev/progress/10)
+        * Basic Statistics ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](Maths/Statistics/basic_statistics.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Statistics/basic_statistics.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Statistics/basic_statistics.ipynb)
+    * [Probability](Maths/Probability) ![10%](https://geps.dev/progress/10)
     * Linear Algebra ![50%](https://geps.dev/progress/50) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](Maths/Linear_Algebra.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Linear_Algebra.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey-in-AI/blob/main/Maths/Linear_Algebra.ipynb)
     * [Differential Calculus](Maths/Differential_Calculus.ipynb) ![10%](https://geps.dev/progress/10)
-    * [Statistics](Maths/Statistics.ipynb) ![10%](https://geps.dev/progress/10)
-    * [Probability Theory](Maths/Probability_Theory.ipynb) ![10%](https://geps.dev/progress/10)
 * [Tools](Tools) ![10%](https://geps.dev/progress/10)
     * [NumPy](Tools/NumPy.ipynb) ![10%](https://geps.dev/progress/10)
     * [Matplotlib](Tools/Matplotlib.ipynb) ![10%](https://geps.dev/progress/10)
